@@ -1,0 +1,18 @@
+.addContainer{
+    border: 1px solid ;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgb(128, 211, 212);
+}
+.addContainerInput{
+    background-color: beige;
+    border-radius: 10px;
+    padding: 5px;
+}
+.addContainerButton{
+    background-color: rgb(243, 243, 52);
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.TodoList{
+    border: 1px solid ;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: blueviolet;
+   
+}
+.listItems{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+
+.listText{
+   font-size: 20px;
+}
+
+.listButton{
+    background-color: rgb(204, 47, 47);
+    cursor: pointer;
+}
